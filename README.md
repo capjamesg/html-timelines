@@ -1,5 +1,7 @@
 # HTML Timelines
 
+<img width="1381" alt="timeline" src="https://github.com/capjamesg/html-timelines/assets/37276661/f06afb3e-bd48-44cc-983b-dc62f9bb27a1">
+
 Make a timeline with HTML.
 
 ## Inspiration
@@ -85,7 +87,9 @@ python3 app.py
 
 A file called `table.html` will be created with the results of your table.
 
-Here is an example:
+Here is an example of the result above rendered, with an additional row for effect:
+
+<img width="1381" alt="timeline" src="https://github.com/capjamesg/html-timelines/assets/37276661/35267e59-8eee-4fa8-bfde-22e8fa5729e9">
 
 ## Known limitations
 
