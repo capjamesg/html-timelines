@@ -83,7 +83,7 @@ If you want to leave a value blank, set the value of a key to an empty string.
 Then, run the script:
 
 ```bash
-python3 app.py
+python3 html_table.py
 ```
 
 A file called `table.html` will be created with the results of your table.
