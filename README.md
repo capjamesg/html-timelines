@@ -1,6 +1,7 @@
 # HTML Timelines
 
 <img width="1381" alt="timeline" src="https://github.com/capjamesg/html-timelines/assets/37276661/f06afb3e-bd48-44cc-983b-dc62f9bb27a1">
+<br><br>
 
 Make a timeline with HTML.
 
